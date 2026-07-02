@@ -1,5 +1,13 @@
 # EduReach - Agentic College Chatbot
 
+# EduReach – AI College Chatbot
+
+## Live Demo
+🚀 https://edureach-student-assistant-eight.vercel.app
+
+## Description
+AI-powered college chatbot built using React, Node.js, MongoDB, Gemini AI, and LangChain.
+
 EduReach is a full-stack AI-powered college information platform built to help students explore courses, admissions, fees, placements, campus life, and counselor support from one modern web experience.
 
 The project combines a React frontend, an Express/TypeScript backend, MongoDB authentication, a RAG-based AI chatbot, and Vapi-powered outbound voice call support.

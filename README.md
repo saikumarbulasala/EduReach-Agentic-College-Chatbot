@@ -1,7 +1,5 @@
 # EduReach - Agentic College Chatbot
 
-# EduReach – AI College Chatbot
-
 ## Live Demo
 🚀 https://edureach-student-assistant-eight.vercel.app
 

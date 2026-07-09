@@ -11,17 +11,6 @@
 
 ---
 
-## 📸 Preview
-
-<div align="center">
-  <img src="https://via.placeholder.com/900x500.png?text=EduReach+Landing+Page" alt="EduReach landing page" width="45%" />
-  <img src="https://via.placeholder.com/900x500.png?text=AI+Chatbot+in+Action" alt="EduReach chatbot" width="45%" />
-</div>
-
-> Replace the placeholders above with real screenshots or a short GIF walkthrough — this is the single highest-leverage thing you can add. Recruiters look at the image before reading a word.
-
----
-
 ## 🧠 What is EduReach?
 
 EduReach is a full-stack, AI-powered college information platform that helps students explore courses, admissions, fees, placements, and campus life — through a **RAG-based chatbot** and an **AI voice-call assistant** — instead of digging through static pages or waiting on a counselor.

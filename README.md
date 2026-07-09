@@ -229,8 +229,8 @@ cd client && npm run dev     # http://localhost:5173
 
 ## 👤 Author
 
-**Your Name**
-[GitHub](https://github.com/your-username) · [LinkedIn](https://linkedin.com/in/your-linkedin) · [Portfolio](#)
+**Sai Kumar Bulasala**
+[GitHub](https://github.com/saikumarbulasala)
 
 ---
 

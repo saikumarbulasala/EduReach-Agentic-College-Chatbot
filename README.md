@@ -216,13 +216,6 @@ cd client && npm run dev     # http://localhost:5173
 
 ---
 
-## 👤 Author
-
-**Sai Kumar Bulasala**
-[GitHub](https://github.com/saikumarbulasala)
-
----
-
 <div align="center">
 Built with ❤️ to make college exploration faster, smarter, and more human — even when it's AI answering.
 </div>

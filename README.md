@@ -31,33 +31,28 @@ Rather than generating generic AI answers, the chatbot retrieves relevant contex
 | 🏗️ **Modular Architecture** | Clean separation of frontend, backend, and AI services |
 
 ---
-
-## 🛠️ Tech Stack
+🛠️ Tech Stack
 
 <div align="center">
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-
-**AI / Integrations**
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
+<table>
+<tr>
+<td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React"/><br><b>React</b></td>
+<td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/><br><b>TypeScript</b></td>
+<td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="45" height="45" alt="Vite"/><br><b>Vite</b></td>
+<td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/><br><b>Node.js</b></td>
+<td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" height="45" alt="Express"/><br><b>Express</b></td>
+<td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB"/><br><b>MongoDB</b></td>
+</tr>
+<tr>
+<td align="center" width="90"><img src="https://cdn.simpleicons.org/jsonwebtokens/black" width="45" height="45" alt="JWT"/><br><b>JWT</b></td>
+<td align="center" width="90"><img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="45" height="45" alt="Gemini"/><br><b>Gemini</b></td>
+<td align="center" width="90"><img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="45" height="45" alt="LangChain"/><br><b>LangChain</b></td>
+<td align="center" width="90"><img src="https://cdn.simpleicons.org/vercel/black" width="45" height="45" alt="Vercel"/><br><b>Vercel</b></td>
+<td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/><br><b>Git</b></td>
+<td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="45" height="45" alt="npm"/><br><b>npm</b></td>
+</tr>
+</table>
 </div>
-
 ---
 
 ## 🧩 How the RAG Pipeline Works

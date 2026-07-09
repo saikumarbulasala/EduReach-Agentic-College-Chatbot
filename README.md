@@ -53,6 +53,7 @@ Rather than generating generic AI answers, the chatbot retrieves relevant contex
 </tr>
 </table>
 </div>
+
 ---
 
 ## 🧩 How the RAG Pipeline Works
